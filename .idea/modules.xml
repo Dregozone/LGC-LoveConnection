@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LGCLoveConnectionEmpty.iml" filepath="$PROJECT_DIR$/LGCLoveConnectionEmpty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LGCLoveConnection.iml" filepath="$PROJECT_DIR$/LGCLoveConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
