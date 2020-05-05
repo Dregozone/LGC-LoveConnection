@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LGCLoveConnectionEmpty</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello">LGC Love Connection!</string>
+    <string name="tapme">Start Vibrate</string>
+    <string name="stopme">Stop Vibrate</string>
+    <string name="distanceOne">1m</string>
+    <string name="distanceTwo">2m</string>
+    <string name="distanceThree">3m</string>
+    <string name="distanceFour">4m</string>
+    <string name="distanceFive">5m</string>
+    <string name="distanceText">0</string>
+    <string name="distanceMeasure">Metres allowed before vibrating</string>
+    <string name="compDistButton">Check Distance</string>
+    <string name="DeviceDistance">Metres from phone (bluetooth device)</string>
+    <string name="CurrDistance">3</string>
+</resources>
